@@ -314,4 +314,4 @@ function Table({heads,rows}){return <div className="table"><table><thead><tr>{he
 
 
 
-createRoot(document.getElementById('root')).render(<App/>);s
+createRoot(document.getElementById('root')).render(<App/>);
